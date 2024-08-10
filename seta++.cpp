@@ -1,6 +1,5 @@
 
 #include <iostream>
-#include <cctype>
 #include <map>
 #include <string>
 using namespace std;
